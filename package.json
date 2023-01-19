@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lawalker4/EmployeeTracker.git"
+    "url": "git+https://github.com/chelsbo/Employee-Tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lawalker4/EmployeeTracker/issues"
+    "url": "https://github.com/chelsbo/Employee-Tracker/issues"
   },
-  "homepage": "https://github.com/lawalker4/EmployeeTracker#readme",
+  "homepage": "https://github.com/chelsbo/Employee-Tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^16.0.1",
